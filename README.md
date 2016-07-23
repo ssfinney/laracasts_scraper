@@ -1,5 +1,10 @@
 ## Laracasts Scraper
 
+### Warning!
+This code is old, and may not work.
+
+### Introduction
+
 This is a Python web scraper that grabs your list of watched videos from Laracasts.com, counts them, and calculates the total percent of videos watched.
 The results are logged to a user-defined file.
 
