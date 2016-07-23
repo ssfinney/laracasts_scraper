@@ -1,0 +1,6 @@
+# This forces retrieval of these packages from PyPI.
+--index-url https://pypi.python.org/simple/
+
+beautifulsoup4==4.3
+requests==2.3
+PyYAML==3.11
